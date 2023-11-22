@@ -39,7 +39,7 @@ Not available, this is a work in progress.
 
 ## Live Web Page
 
-[Crossfire Wiki](http://wiki.cross-fire.org/dokuwiki/doku.php/crossfire_traffic)
+Traffic Page at the [Crossfire Wiki](http://wiki.cross-fire.org/dokuwiki/doku.php/crossfire_traffic)
 
 ## Contributing
 
