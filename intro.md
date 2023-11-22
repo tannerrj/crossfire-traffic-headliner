@@ -1,5 +1,7 @@
 # Introduction
 
+The initial setup used to create the bash script at ChatGPT:
+
 Show me a bash script, with error checking, that collects the commit logs from a git repository for the previous calendar month only and output the commit logs as an unordered list in chronological order in dokuwiki compatible formatting
 
 ## Script Output
