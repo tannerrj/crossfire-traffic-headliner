@@ -16,7 +16,13 @@ The script requires `awk` and `git` to be installed
 
 ## Usage
 
+Make the script (`git_commit_logs.sh`) executable (`chmod +x git_commit_logs.sh`), and then run it with the path to your Git repository as an argument:
 
+```bash
+
+./git_commit_logs.sh /path/to/your/git/repo
+
+```
 
 ## Background
 
