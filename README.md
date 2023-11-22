@@ -6,11 +6,11 @@
 
 ## Installation
 
-It is helpful to have `git` installed to download all the related code for `Crossfire Traffic Headliner`
+It is helpful to have `git` installed to download all the related code for `Crossfire Traffic Headliner`.
 
 ### Requirements
 
-The script requires `awk` and `git` to be installed
+The script requires `awk` and `git` to be installed.
 
 ## Guidelines
 
@@ -27,15 +27,15 @@ Make the script (`git_commit_logs.sh`) executable (`chmod +x git_commit_logs.sh`
 ## Background
 
  * What is the script for?
-   * The scripts is used to update the Crossfire DokuWiki page that tracks all the changes with the game that are noticeable for people playing the game; not a ChangeLog of all code changes
+   * The scripts is used to update the Crossfire DokuWiki page that tracks all the changes with the game that are noticeable for people playing the game; not a ChangeLog of all code changes.
  * What was your motivation?
-   * My motivation for creating this script was rooted in my involvement with a gaming project centered around [Crossfire](https://sourceforge.net/projects/crossfire/). Every month I update the Traffic page with game changes, and sometimes this can be a lengthy task. So I looked for a way to automate this as much as possible
+   * My motivation for creating this script was rooted in my involvement with a gaming project centered around [Crossfire](https://sourceforge.net/projects/crossfire/). Every month I update the Traffic page with game changes, and sometimes this can be a lengthy task. So I looked for a way to automate this as much as possible.
  * What problem does it solve?
-   * Save time and to be efficient with collecting the commit log summaries. However, human review and interaction is required to remove commit logs that are not pertinent to in-game content or encounters
+   * Save time and to be efficient with collecting the commit log summaries. However, human review and interaction is required to remove commit logs that are not pertinent to in-game content or encounters.
 
 ## Screenshot
 
-Not available, this is a work in progress
+Not available, this is a work in progress.
 
 ## Live Web Page
 
@@ -43,9 +43,9 @@ Not available, this is a work in progress
 
 ## Contributing
 
- * Contributions are welcome
- * Pull requests are welcome
- * Creating a fork on this code base is also welcome
+ * Contributions are welcome.
+ * Pull requests are welcome.
+ * Creating a fork on this code base is also welcome.
 
 ## Questions
 
