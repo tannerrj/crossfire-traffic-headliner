@@ -16,6 +16,10 @@ The script requires `awk` and `git` to be installed
 
 ## Usage
 
+
+
+## Background
+
  * What is the script for?
    * The scripts is used to update the Crossfire DokuWiki page that tracks all the changes with the game that are noticeable for people playing the game; not a ChangeLog of all code changes
  * What was your motivation?
