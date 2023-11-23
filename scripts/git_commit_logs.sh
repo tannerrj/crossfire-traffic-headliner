@@ -27,7 +27,7 @@ start_date=$(date -d "$(date +%Y-%m-01) -1 month" +%Y-%m-%d)
 end_date=$(date -d "$(date +%Y-%m-01)" +%Y-%m-%d)
 
 # Collect commit logs for the previous month
-commit_logs=$(git log --pretty=format:'%h %s (%an)' --since="$start_date" --until="$end_date")
+commit_logs=$(git log --pretty=format:'%h %s' --since="$start_date" --until="$end_date")
 
 # Check if there are any commits for the previous month
 if [ -z "$commit_logs" ]; then
