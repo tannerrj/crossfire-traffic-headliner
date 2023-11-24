@@ -35,7 +35,13 @@ Make the script (`git_commit_logs.sh`) executable (`chmod +x git_commit_logs.sh`
 
 ## Screenshot
 
-Not available, this is a work in progress.
+ 1. Log output sample for Crossfire Archetypes.
+ ![md5sum](images/crossfire-traffic-headliner_arch.png)
+ 2. Log output sample for Crossfire Maps.
+ ![sha1sum](images/crossfire-traffic-headliner_maps.png)
+ 3. Log output sample showing no recent upates.
+ ![sha256sum](images/crossfire-traffic-headliner_no-updates.png)
+
 
 ## Live Web Page
 
