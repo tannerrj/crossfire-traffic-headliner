@@ -41,7 +41,8 @@ Make the script (`git_commit_logs.sh`) executable (`chmod +x git_commit_logs.sh`
  ![sha1sum](images/crossfire-traffic-headliner_maps.png)
  3. Log output sample showing no recent upates.
  ![sha256sum](images/crossfire-traffic-headliner_no-updates.png)
-
+ 4. Sample screen shot of the Crossfire Traffic wiki page that this script would populate
+ ![md5sum](images/crossfire-wiki-traffic-page.png)
 
 ## Live Web Page
 
