@@ -35,7 +35,7 @@ if [ -z "$commit_logs" ]; then
   exit 0
 fi
 
-# Format commit logs as DokuWiki unordered list
+# Step 8: Format commit logs as DokuWiki unordered list
 echo "==== Commit Logs for $start_date to $end_date ===="
 echo "{{{"
 echo "$commit_logs" | awk '{print "* " $0}'
