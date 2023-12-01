@@ -6,7 +6,7 @@ function show_usage {
   exit 1
 }
 
-# Check if the correct number of arguments is provided
+# Step 2: Check if the correct number of arguments is provided
 if [ "$#" -ne 1 ]; then
   show_usage
 fi
