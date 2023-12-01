@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Function to display usage information
+# Step 1: Function to display usage information
 function show_usage {
   echo "Usage: $0 <path/to/git/repo>"
   exit 1
