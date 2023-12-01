@@ -19,7 +19,7 @@ if [ ! -d "$repo_path" ]; then
   show_usage
 fi
 
-# Navigate to the git repository
+# Step 4: Navigate to the git repository
 cd "$repo_path" || exit
 
 # Get the start and end dates for the previous month
