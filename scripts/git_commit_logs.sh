@@ -13,7 +13,7 @@ fi
 
 repo_path="$1"
 
-# Check if the provided path is a valid directory
+# Step 3: Check if the provided path is a valid directory
 if [ ! -d "$repo_path" ]; then
   echo "Error: The provided path is not a valid directory."
   show_usage
