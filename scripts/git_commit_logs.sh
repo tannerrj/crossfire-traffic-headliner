@@ -22,7 +22,7 @@ fi
 # Step 4: Navigate to the git repository
 cd "$repo_path" || exit
 
-# Get the start and end dates for the previous month
+# Step 5: Get the start and end dates for the previous month
 start_date=$(date -d "$(date +%Y-%m-01) -1 month" +%Y-%m-%d)
 end_date=$(date -d "$(date +%Y-%m-01)" +%Y-%m-%d)
 
