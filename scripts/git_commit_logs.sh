@@ -3,6 +3,7 @@
 # Script: git_commit_log.sh
 # Author: Rick Tanner via ChatGPT
 # Description: This script uses a git log to retrieve commit logs within the specified date range, formats them as an unordered list in DokuWiki format
+# Project URL: https://github.com/tannerrj/crossfire-traffic-headliner
 
 # Step 1: Function to display usage information
 function show_usage {
