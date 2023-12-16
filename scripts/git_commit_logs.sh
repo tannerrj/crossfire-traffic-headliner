@@ -42,7 +42,7 @@ fi
 # Step 8: Format commit logs as DokuWiki unordered list
 echo "==== Commit Logs for $start_date to $end_date ===="
 echo "{{{"
-echo "$commit_logs" | awk '{print "* " $0}'
+echo "$commit_logs" | awk '{print "  * " $0}'
 echo "}}}"
 
 exit 0
