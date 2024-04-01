@@ -35,16 +35,20 @@ Make the script (`git_commit_logs.sh`) executable (`chmod +x git_commit_logs.sh`
 
 ## Screenshot
 
- 1. Log output sample for Crossfire Archetypes.
+ 1. Log output sample for Crossfire Archetypes.  
+ 
  ![Arch log output](images/crossfire-traffic-headliner_arch.png)
  
- 2. Log output sample for Crossfire Maps.
+ 2. Log output sample for Crossfire Maps.  
+ 
  ![Maps log output](images/crossfire-traffic-headliner_maps.png)
  
- 3. Log output sample showing no recent updates.
+ 3. Log output sample showing no recent updates.  
+ 
  ![No updates](images/crossfire-traffic-headliner_no-updates.png)
  
- 4. Sample screen shot of the Crossfire Traffic wiki page that this script would populate.
+ 4. Sample screen shot of the Crossfire Traffic wiki page that this script would populate.  
+ 
  ![Crossfire Traffic Wiki page](images/crossfire-wiki-traffic-page.png)
 
 ## Live Web Page
